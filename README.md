@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @PaulSavagner
-- 👀 I’m interested in learning
-- 🌱 I’m currently learning stuff
-- 💞️ I’m looking to collaborate on more stuff
-- 📫 How to reach me paulsavagnerdev@gmail.com
+👋 Hi, I’m Paul
 
 <!---
 PaulSavagner/PaulSavagner is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
